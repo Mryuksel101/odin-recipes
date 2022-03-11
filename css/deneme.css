@@ -1,0 +1,21 @@
+h1{
+    color: rgb(0, 0, 0);
+    font-family: "Sofia", sans-serif;
+  font-size: 40px;
+    /*
+    text-shadow: 2px 2px 5px white;
+    */
+}
+
+body{
+    font-size: 30px;
+    text-align: center;
+    font-family: "Sofia", sans-serif;
+    
+}
+
+img{
+    border-radius: 50%;
+    width: 500px;
+   height: 400px;
+}
