@@ -16,12 +16,46 @@ body{
 }
 
 img{
-    /*
-    border-radius: 50%;
-    */
-    width: 800px;
-   height: 600px;
+    
+    border-radius: 10px;
+    
+    width: 600px;
+   height: auto;
 }
+
+
+ul{
+  list-style-position: inside;
+  
+}
+
+li{
+  margin-top: 30px;
+}
+
+a{
+  
+  background-color: #9a2020;
+  color: white;
+  text-decoration: none;
+
+  
+  padding: 8px 16px;
+  border-radius: 4px;
+  
+}
+
+
+a.altButon{
+  margin-bottom: 40px;
+  display: inline-block;
+  
+}
+
+ul.indexLi{
+  list-style-type: none;
+}
+
 
 
 
